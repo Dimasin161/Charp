@@ -1,0 +1,15 @@
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.exe
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.deps.json
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.runtimeconfig.json
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.dll
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.pdb
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.csproj.AssemblyReference.cache
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.AssemblyInfoInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.AssemblyInfo.cs
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.csproj.CoreCompileInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.dll
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\refint\task00_квадрат_числа.dll
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.pdb
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.genruntimeconfig.cache
+C:\Users\vavil\Desktop\GB1.1\task00_квадрат_числа\obj\Debug\net6.0\ref\task00_квадрат_числа.dll

@@ -1,0 +1,15 @@
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\bin\Debug\net6.0\task11_СлучайноеЧисло.exe
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\bin\Debug\net6.0\task11_СлучайноеЧисло.deps.json
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\bin\Debug\net6.0\task11_СлучайноеЧисло.runtimeconfig.json
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\bin\Debug\net6.0\task11_СлучайноеЧисло.dll
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\bin\Debug\net6.0\task11_СлучайноеЧисло.pdb
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.csproj.AssemblyReference.cache
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.AssemblyInfoInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.AssemblyInfo.cs
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.csproj.CoreCompileInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.dll
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\refint\task11_СлучайноеЧисло.dll
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.pdb
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\task11_СлучайноеЧисло.genruntimeconfig.cache
+C:\Users\vavil\Desktop\GB1.1\task11_СлучайноеЧисло\obj\Debug\net6.0\ref\task11_СлучайноеЧисло.dll

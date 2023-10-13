@@ -1,0 +1,15 @@
+C:\Users\vavil\Desktop\GB1.1\task15\bin\Debug\net6.0\task15.exe
+C:\Users\vavil\Desktop\GB1.1\task15\bin\Debug\net6.0\task15.deps.json
+C:\Users\vavil\Desktop\GB1.1\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\Users\vavil\Desktop\GB1.1\task15\bin\Debug\net6.0\task15.dll
+C:\Users\vavil\Desktop\GB1.1\task15\bin\Debug\net6.0\task15.pdb
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.dll
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\refint\task15.dll
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.pdb
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+C:\Users\vavil\Desktop\GB1.1\task15\obj\Debug\net6.0\ref\task15.dll

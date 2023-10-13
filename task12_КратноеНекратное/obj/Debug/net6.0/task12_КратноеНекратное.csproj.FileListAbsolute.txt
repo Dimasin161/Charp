@@ -1,0 +1,15 @@
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\bin\Debug\net6.0\task12_КратноеНекратное.exe
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\bin\Debug\net6.0\task12_КратноеНекратное.deps.json
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\bin\Debug\net6.0\task12_КратноеНекратное.runtimeconfig.json
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\bin\Debug\net6.0\task12_КратноеНекратное.dll
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\bin\Debug\net6.0\task12_КратноеНекратное.pdb
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.csproj.AssemblyReference.cache
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.AssemblyInfoInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.AssemblyInfo.cs
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.csproj.CoreCompileInputs.cache
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.dll
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\refint\task12_КратноеНекратное.dll
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.pdb
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\task12_КратноеНекратное.genruntimeconfig.cache
+C:\Users\vavil\Desktop\GB1.1\task12_КратноеНекратное\obj\Debug\net6.0\ref\task12_КратноеНекратное.dll
